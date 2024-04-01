@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+li{
+
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.task-message{
+    padding: 15px;
+    width: 100%;
+    height: 300px;
+}
+.task-header{
+    font-size: 25px;
+    transition: all 1s ease-out;
+}
+.task-header:hover{
+    font-size: 80px;
+}
