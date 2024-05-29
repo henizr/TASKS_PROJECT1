@@ -1,0 +1,13 @@
+Функция на вход принимает строку в виде имени и возвращает треугольник имени
+
+A 
+An
+Ana
+Anas
+Anast
+Anasta
+Anastas
+Anastasi
+Anastasiy
+Anastasiya
+
